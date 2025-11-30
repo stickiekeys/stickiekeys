@@ -5,6 +5,6 @@
 
 <div align="center">
  
-![huevos](https://komarev.com/ghpvc/?username=stickiekeys&style=plastic&color=be2b17) 
+![](https://komarev.com/ghpvc/?username=stickiekeys&style=plastic&color=be2b17&label=coint) 
 
 </div>
