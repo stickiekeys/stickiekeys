@@ -10,6 +10,6 @@
 
 <div align="center">
  
-![](https://komarev.com/ghpvc/?username=stickiekeys&style=plastic&color=be2b17&label=coint) 
+![](https://komarev.com/ghpvc/?username=stickiekeys&style=plastic&color=be2b17&label=phags) 
 
 </div>
