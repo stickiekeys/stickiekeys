@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="https://i.imgur.com/jdG3C1K.png" alt="drawing" width="655"/>
-<img src="https://64.media.tumblr.com/b824a96dfb7b9a8b5cc9d59923fe2039/d49a5ca38ee71f40-7f/s540x810/8925687bde05aebfdd5b21b0dad0759fd85446dc.pnj" alt="drawing" width="400"/>
+<img src="https://64.media.tumblr.com/b824a96dfb7b9a8b5cc9d59923fe2039/d49a5ca38ee71f40-7f/s540x810/8925687bde05aebfdd5b21b0dad0759fd85446dc.pnj" alt="drawing" width="360"/>
 
 </div>
 
