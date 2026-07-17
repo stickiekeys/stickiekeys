@@ -6,6 +6,7 @@
 </div>
 
 <p align="center"> $\Large\text{KNIVES or PIERCE}$ </p>
+<p align="center"> ᴛʜᴇʏ ᵗʰᵉᵐ </p>
 <p align="center"> 21 yo 🎟️ fictionkin </p>
 
 <div align="center">
