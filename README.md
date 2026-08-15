@@ -1,17 +1,17 @@
 
 <div align="center">
-<img src="https://i.imgur.com/jdG3C1K.png" alt="drawing" width="655"/>
-<img src="https://64.media.tumblr.com/b824a96dfb7b9a8b5cc9d59923fe2039/d49a5ca38ee71f40-7f/s540x810/8925687bde05aebfdd5b21b0dad0759fd85446dc.pnj" alt="drawing" width="360"/>
+<img src="https://64.media.tumblr.com/7e36ad1f12d11133c4ca9f9aeaccf819/7495588209f12f0c-8d/s2048x3072/9932429a1f84ed137d313b686ec5d04c50bc52ac.pnj" alt="drawing" width="655"/>
+<img src="https://i.imgur.com/0fdNc8x.png" alt="drawing" width="360"/>
 
 </div>
 
 <p align="center"> $\Large\text{KNIVES or PIERCE}$ </p>
 <p align="center"> ᴛʜᴇʏ ᵗʰᵉᵐ </p>
-<p align="center"> 21 yo 🎟️ fictionkin </p>
+<p align="center"> 21 yo 🎭 fictionkin </p>
 
 <div align="center">
 
-<img src="https://64.media.tumblr.com/bb923555d7112bb7a46873491f444900/7e14428ec86e4e46-37/s2048x3072/0eb4bddc94b696b83a3386c2f248f771d83dfd3a.pnj" alt="drawing" width="400"/>
+<img src="https://64.media.tumblr.com/4b7d56533eda20eaea74b4734f3a01f6/136f59329199be26-cb/s1280x1920/cc21821ea306b13825ffb622783aec2e3fc47963.pnj" alt="drawing" width="400"/>
 
 </div>
 
@@ -27,4 +27,4 @@
 ![](https://komarev.com/ghpvc/?username=stickiekeys&style=plastic&color=14cb62&label=phags)
 </div>
 
-<img src="https://i.imgur.com/yp7q21k.png" alt="drawing" width="655"/>
+<img src="https://64.media.tumblr.com/599b4fff03b7b688b45399fe19cfe969/7495588209f12f0c-d7/s2048x3072/4f777969738bdffda6029ec8d04c285f07f8882e.pnj" alt="drawing" width="655"/>
