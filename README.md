@@ -1,7 +1,7 @@
 
 <div align="center">
-<img src="https://64.media.tumblr.com/7e36ad1f12d11133c4ca9f9aeaccf819/7495588209f12f0c-8d/s2048x3072/9932429a1f84ed137d313b686ec5d04c50bc52ac.pnj" alt="drawing" width="780"/>
-<img src="https://i.imgur.com/0fdNc8x.png" alt="drawing" width="360"/>
+<img src="https://64.media.tumblr.com/7e36ad1f12d11133c4ca9f9aeaccf819/7495588209f12f0c-8d/s2048x3072/9932429a1f84ed137d313b686ec5d04c50bc52ac.pnj" alt="drawing" width="800"/>
+<img src="https://i.imgur.com/0fdNc8x.png" alt="drawing" width="287"/>
 
 </div>
 
@@ -27,4 +27,4 @@
 ![](https://komarev.com/ghpvc/?username=stickiekeys&style=plastic&color=14cb62&label=phags)
 </div>
 
-<img src="https://64.media.tumblr.com/599b4fff03b7b688b45399fe19cfe969/7495588209f12f0c-d7/s2048x3072/4f777969738bdffda6029ec8d04c285f07f8882e.pnj" alt="drawing" width="780"/>
+<img src="https://64.media.tumblr.com/599b4fff03b7b688b45399fe19cfe969/7495588209f12f0c-d7/s2048x3072/4f777969738bdffda6029ec8d04c285f07f8882e.pnj" alt="drawing" width="800"/>
